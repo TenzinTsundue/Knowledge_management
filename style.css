@@ -1,0 +1,12 @@
+.navbar{
+    height:60px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    background-color: #333333;
+  }
